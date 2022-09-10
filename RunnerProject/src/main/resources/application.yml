@@ -1,0 +1,24 @@
+#emp.id=1000
+#emp.name=amuu
+#emp.address=victory one
+
+
+
+#emp.list[0]=amit
+#
+#emp.list[1]=vishal
+#
+#
+#emp.list[2]=prithvi
+#
+#
+#emp.list[3]=gaurav
+#
+#emp.map.amit= 60000
+#emp.map.vivek= 75000
+#emp.map.deepak= 21000
+#emp.map.chandan= 40000
+emp:
+  id: 10
+  name: amy
+  address: paudhi ghadwal
